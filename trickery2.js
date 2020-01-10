@@ -1,3 +1,4 @@
+'use strict';
 
 function curryIt(arg1) {
     function curriedFunction(arg1, arg2) {
