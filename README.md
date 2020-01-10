@@ -1,2 +1,2 @@
 # trickery
-JS examples used to educate on the subject of Javascript
+Short examples used to educate on the subject of JavaScript
