@@ -1,4 +1,3 @@
-
 // this example is not in strict mode on purpose
 
 function atLeastWeCaughtIt(a, c) {
